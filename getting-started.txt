@@ -4,3 +4,4 @@ Oops, needed to add this line too.
 
 Jim was here
 updated name
+updated git info
